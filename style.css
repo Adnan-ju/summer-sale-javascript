@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap');
+
+.button{
+    width: 156px;
+height: 56px;
+border-radius: 8px;
+background-color: #E527B2;
+color: #FFF;
+text-align: center;
+font-family: Work Sans;
+font-size: 24px;
+}
+
+.purchase{
+    width: 200px;
+    height: 56px;
+    border-radius: 8px;
+    background: #E527B2;
+    color: #FFF;
+    text-align: center;
+}
+
+.modal-button{
+    width: 180px;
+height: 56px;
+border-radius: 8px;
+background: #E527B2;
+color: white;
+}
+
+@media screen and (max-width:600px){
+   .button{
+    width: :60px;
+    height: 30px;
+    font-size: 10px;
+    
+   }
+
+}
+
